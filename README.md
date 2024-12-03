@@ -17,7 +17,8 @@ Bu proje, **Talibinden** adlı web sitesinin CodeIgniter altyapısına geçirilm
 ## 👥 Ekip Üyeleri  
 - Muhammet Taha Akgül - 2313201028  
 - Murat Bilgilioğlu - 2313201042  
-- Elanur Yılmaz - 2313201032  
+- Elanur Yılmaz - 2313201032
+- Mert Arda Serdar - 2313201030
 
 ## 🚀 Başlangıç  
  - Güncellenecek.
